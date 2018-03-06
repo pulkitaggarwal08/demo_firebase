@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">DemoFirebase</string>
+
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="register_new_user">Register New User ?</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+
+    <string name="chat_friends_list">Chat Friends</string>
+    <string name="manage_accounts">Manage Accounts</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+
+    <string name="new_project">New Project</string>
+    <string name="project_name">Project Name</string>
+    <string name="employee">Employee</string>
+    <string name="new_employee">New Employee</string>
+
+    <string name="project_one">Project 1</string>
+    <string name="form_name_one">Form Name 1</string>
+    <string name="form_name_two">Form Name 2</string>
+    <string name="form_name_three">Form Name 3</string>
+
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+    <string name="region">Region</string>
+    <string name="re_type_password">Re-Type Password</string>
+
+    <string name="new_form">New</string>
+    <string name="save_form">Saved</string>
+    <string name="reports">Reports</string>
+
+    <string name="details">Details</string>
+
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+    <!--Font Awsome-->
+    <string name="fa_text">&#xf15c;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_lock">&#xf023;</string>
+    <string name="fa_sign_out">&#xf08b;</string>
+    <string name="fa_fill_circle">&#xf111;</string>
+    <string name="fa_outer_circle">&#xf10c;</string>
+    <string name="full_name">Full Name</string>
+
+
+</resources>
